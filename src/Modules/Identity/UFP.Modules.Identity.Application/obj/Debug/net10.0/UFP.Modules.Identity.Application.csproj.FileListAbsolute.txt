@@ -1,0 +1,17 @@
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Application\bin\Debug\net10.0\UFP.Modules.Identity.Application.deps.json
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Application\bin\Debug\net10.0\UFP.Modules.Identity.Application.dll
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Application\bin\Debug\net10.0\UFP.Modules.Identity.Application.pdb
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Application\bin\Debug\net10.0\UFP.Modules.Identity.Domain.dll
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Application\bin\Debug\net10.0\UFP.Modules.Identity.Domain.pdb
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Application\obj\Debug\net10.0\UFP.Modules.Identity.Application.csproj.AssemblyReference.cache
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Application\obj\Debug\net10.0\UFP.Modules.Identity.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Application\obj\Debug\net10.0\UFP.Modules.Identity.Application.AssemblyInfoInputs.cache
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Application\obj\Debug\net10.0\UFP.Modules.Identity.Application.AssemblyInfo.cs
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Application\obj\Debug\net10.0\UFP.Modules.Identity.Application.csproj.CoreCompileInputs.cache
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Application\obj\Debug\net10.0\UFP.Modu.D8FE9011.Up2Date
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Application\obj\Debug\net10.0\UFP.Modules.Identity.Application.dll
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Application\obj\Debug\net10.0\refint\UFP.Modules.Identity.Application.dll
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Application\obj\Debug\net10.0\UFP.Modules.Identity.Application.pdb
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Application\obj\Debug\net10.0\ref\UFP.Modules.Identity.Application.dll
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Application\bin\Debug\net10.0\UFP.Modules.Identity.Contracts.dll
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Application\bin\Debug\net10.0\UFP.Modules.Identity.Contracts.pdb

@@ -1,0 +1,11 @@
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Contracts\bin\Debug\net10.0\UFP.Modules.Identity.Contracts.deps.json
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Contracts\bin\Debug\net10.0\UFP.Modules.Identity.Contracts.dll
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Contracts\bin\Debug\net10.0\UFP.Modules.Identity.Contracts.pdb
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Contracts\obj\Debug\net10.0\UFP.Modules.Identity.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Contracts\obj\Debug\net10.0\UFP.Modules.Identity.Contracts.AssemblyInfoInputs.cache
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Contracts\obj\Debug\net10.0\UFP.Modules.Identity.Contracts.AssemblyInfo.cs
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Contracts\obj\Debug\net10.0\UFP.Modules.Identity.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Contracts\obj\Debug\net10.0\UFP.Modules.Identity.Contracts.dll
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Contracts\obj\Debug\net10.0\refint\UFP.Modules.Identity.Contracts.dll
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Contracts\obj\Debug\net10.0\UFP.Modules.Identity.Contracts.pdb
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Contracts\obj\Debug\net10.0\ref\UFP.Modules.Identity.Contracts.dll

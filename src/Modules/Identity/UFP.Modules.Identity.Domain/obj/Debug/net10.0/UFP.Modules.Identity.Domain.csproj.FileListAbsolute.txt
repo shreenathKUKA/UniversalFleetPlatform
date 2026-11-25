@@ -1,0 +1,11 @@
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Domain\bin\Debug\net10.0\UFP.Modules.Identity.Domain.deps.json
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Domain\bin\Debug\net10.0\UFP.Modules.Identity.Domain.dll
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Domain\bin\Debug\net10.0\UFP.Modules.Identity.Domain.pdb
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Domain\obj\Debug\net10.0\UFP.Modules.Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Domain\obj\Debug\net10.0\UFP.Modules.Identity.Domain.AssemblyInfoInputs.cache
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Domain\obj\Debug\net10.0\UFP.Modules.Identity.Domain.AssemblyInfo.cs
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Domain\obj\Debug\net10.0\UFP.Modules.Identity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Domain\obj\Debug\net10.0\UFP.Modules.Identity.Domain.dll
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Domain\obj\Debug\net10.0\refint\UFP.Modules.Identity.Domain.dll
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Domain\obj\Debug\net10.0\UFP.Modules.Identity.Domain.pdb
+C:\Users\khadap\OneDrive - KUKA AG\Desktop\AMR Project\#Project Main\UPF\src\Modules\Identity\UFP.Modules.Identity.Domain\obj\Debug\net10.0\ref\UFP.Modules.Identity.Domain.dll

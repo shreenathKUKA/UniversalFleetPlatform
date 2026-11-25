@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Hosts/">
+    <Project Path="src/Hosts/UFP.API/UFP.API.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Identity/">
+    <Project Path="src/Modules/Identity/UFP.Modules.Identity.Application/UFP.Modules.Identity.Application.csproj" />
+    <Project Path="src/Modules/Identity/UFP.Modules.Identity.Contracts/UFP.Modules.Identity.Contracts.csproj" />
+    <Project Path="src/Modules/Identity/UFP.Modules.Identity.Domain/UFP.Modules.Identity.Domain.csproj" />
+    <Project Path="src/Modules/Identity/UFP.Modules.Identity.Infrastructure/UFP.Modules.Identity.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/UFP.Modules.Identity.Tests/UFP.Modules.Identity.Tests.csproj" />
+  </Folder>
+</Solution>

@@ -1,9 +1,8 @@
-using System.Reflection.Metadata.Ecma335;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Options;
 using UFP.Modules.Identity.Infrastructure.Identity;
 using UFP.Modules.Identity.Infrastructure.Persistence;
 
@@ -16,7 +15,7 @@ namespace UFP.Modules.Identity.Infrastructure.DependencyInjection;
         var connectionString =configuration.GetConnectionString("UfpDatabase") 
         ?? throw new InvalidOperationException("Connection String was nor found");
 
-        services.AddDbContext<UFPIdentityDbContext>(options => options.UseNpgsql(connectionString ,Npgsql => {
+        services.AddDbContext<UFPIdentityDbContext>(options => options.UseNpgsql(connectionString ,npgsql => {
             npgsql.MigrationsHistoryTable(
             "__ef_migrations_history","identity");
             }));
@@ -25,8 +24,7 @@ namespace UFP.Modules.Identity.Infrastructure.DependencyInjection;
         services.AddIdentity<ApplicationUser, ApplicationRole>(options =>
         {
             options.User.RequireUniqueEmail = true;
-            options.Password.RequireLength = 12;
-            options.Password.RequireLength = true;
+            options.Password.RequiredLength = 12;
             options.Password.RequireDigit = true;
             options.Password.RequireUppercase = true;
             options.Password.RequireLowercase = true;
@@ -37,7 +35,7 @@ namespace UFP.Modules.Identity.Infrastructure.DependencyInjection;
                     options.SignIn.RequireConfirmedEmail = false;
         })
         .AddEntityFrameworkStores<UFPIdentityDbContext>()
-        .AddDefaultTokenProvider();
+        .AddDefaultTokenProviders();
 
 
         services.ConfigureApplicationCookie(options =>
